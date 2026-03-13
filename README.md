@@ -21,7 +21,7 @@ The server supports basic HTTP request parsing and response generation, includin
   - 505 HTTP Version Not Supported
 - Graceful shutdown using SIGINT (Ctrl+C)
 
-# Building the Server
+## Building the Server
 Compile the server using the provided Makefile
 
 Start the server by specifying a port number: ```./server <port>```
